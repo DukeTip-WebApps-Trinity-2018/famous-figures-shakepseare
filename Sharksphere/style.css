@@ -48,6 +48,13 @@
 color: #3399ff;
 background-color: #ffffe6
   }
+  #myButton {
+    position: absolute;
+    bottom: 450px;
+    right: 100px;
+    
+  }
+
   #toBe{
     text-align: center;
     font-size: 100px;
@@ -73,6 +80,14 @@ background-color: #ffffe6
   }
   .plays{
       text-align: center;
+  }
+  .size007{
+    margin-bottom: 30px;
+
+  }
+  .size007{
+    margin-bottom: 30px;
+
   }
 
   .bg{
@@ -325,5 +340,7 @@ right connector from last child*/
 	border-color:  #94a0b4;
 }
 
+
 /*Thats all. I hope you enjoyed it.
 Thanks :)*/
+
