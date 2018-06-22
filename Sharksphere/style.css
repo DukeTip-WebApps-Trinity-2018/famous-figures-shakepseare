@@ -137,7 +137,7 @@ background-color: #ffffe6;
       .container {
         position: relative;
         background-color: white;
-        width: 50%;
+        width: 20%;
         border: solid 3px black;
         border-radius:3px;
       }
@@ -158,12 +158,12 @@ background-color: #ffffe6;
       
       /* Place the container to the left */
       .left {
-        left: 0;
+        right: 10%;
       }
       
       /* Place the container to the right */
       .right {
-        left: 50%;
+        left: 10%;
       }
       
       /* Add arrows to the left container (pointing right) */
@@ -339,8 +339,7 @@ right connector from last child*/
 .tree li a:hover+ul ul::before{
 	border-color:  #94a0b4;
 }
-
-
-/*Thats all. I hope you enjoyed it.
-Thanks :)*/
+body {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+}
 
